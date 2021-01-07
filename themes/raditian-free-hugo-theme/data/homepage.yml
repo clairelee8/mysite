@@ -1,0 +1,244 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I’m Claire."
+  subtitle: "Aspiring Full-Stack Developer"
+  #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "I am a freshman at the University of California, Berkeley intending to study computer science. Welcome to my page and hope you enjoy!"
+  image:
+    x: "img/showcase/claire.png"
+    _2x: "img/showcase/claire.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "http://localhost:1313/#contact"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/claire-lee-a54ba5155/"
+
+    - icon: "github"
+      URL: "https://github.com/clairelee8"
+
+    #- icon: "twitter"
+    #  URL: "https://twitter.com/radity"
+
+    #- icon: "dribbble"
+    #  URL: "https://dribbble.com/radity"
+
+    #- icon: "behance"
+    #  URL: "https://www.behance.net/radity-digital"
+
+    #- icon: "youtube"
+    #  URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    #- icon: "instagram"
+    #  URL: "https://www.instagram.com/teamradity/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/profile.php?id=100027775279619"
+
+    #- icon: "codepen"
+    #  URL: "#"
+
+    #- icon: "yelp"
+    #  URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content:
+    '<p class="lead">
+    I’m a lover for smiles, a diehard fan of RnB music, a whisperer for Mother Nature,
+    an avid enthusiast of Birkenstocks,and an aficionado for alternative milk options.
+
+    </p>
+    <p class="lead">
+    My current area of focus lies in creating web and mobile products and Nature
+    Language Processing However early in my career I am still consistently
+    researching and learning about other areas of computer science and AI.
+
+    </p>'
+    # My current area of focus lies in designing web and mobile products and Nature Language Processing.
+    #However, early in my career, I am still consistently researching and learning about other areas of
+    #computer science and AI. I'm open to all and any opportunities!
+
+  #button:
+  #  icon: "icon-smile-fill"
+  #  btnText: "About Me"
+  #  URL: "https://www.linkedin.com/company/radity/"
+  image:
+    x: "img/who-am-i/claire2.png"
+    _2x: "img/who-am-i/claire2.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Berkeley, California"
+      year: "2020-2024"
+      degree: "Intended Computer Science Major"
+
+    #- university: "Sir John A Macdonald CI"
+    #  year: "2009-2012"
+    # degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I'm open to all and any opportunities!"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/claire-lee-a54ba5155/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://drive.google.com/file/d/1ndhBo-bLaLe7YtlIGNW3u7-aHOhFPClh/view?usp=sharing"
+
+  items:
+    - title: "Summer Intern"
+      company: "AI4ALL"
+      duration: "Jul 2020 - Aug 2020"
+
+    - title: "Volunteer"
+      company: "Academy of Music and Arts for Special Education"
+      duration: "Jul 2016 - May 2020"
+
+    #- title: "Jr. Front-End Developer"
+    # company: "Cyberse"
+    # duration: "Jun 2009 - Mar 2010"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  #phone:
+  #  title: "Phone Number"
+  #  number: "+408 752 6871"
+  email:
+    title: "Shoot me an email!"
+    email: '<a href="mailto:clairelee8@berkeley.edu">clairelee8@berkeley.edu</a>'
+  #address:
+  #  title: "Address"
+  # address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    URL: "mailto:clairelee8@berkeley.edu"
+    #URL: "https://google.com"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
