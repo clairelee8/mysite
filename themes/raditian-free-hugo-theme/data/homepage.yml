@@ -4,7 +4,7 @@ showcase:
   title: "Hi, I’m Claire."
   subtitle: "Aspiring Full-Stack Developer"
   #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
-  description: "I am a freshman at the University of California, Berkeley intending to study computer science. Welcome to my page and hope you enjoy!"
+  description: "I am a sophomore at the University of California, Berkeley intending to study computer science. Welcome to my page and hope you enjoy!"
   image:
     x: "img/showcase/claire.png"
     _2x: "img/showcase/claire.png"
@@ -59,7 +59,7 @@ about:
     </p>
     <p class="lead">
     My current area of focus lies in creating web and mobile products and Nature
-    Language Processing However early in my career I am still consistently
+    Language Processing. However, early in my career I am still consistently
     researching and learning about other areas of computer science and AI.
 
     </p>'
@@ -100,9 +100,12 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/1ndhBo-bLaLe7YtlIGNW3u7-aHOhFPClh/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/1x4nKbB0Gx3edrsoXOYIw7n87wNMERmA2/view?usp=sharing"
 
   items:
+    - title: "Bank of America Technology Analyst"
+      company: "Bank of America"
+      duration: "June 2021 - Aug 2021"
     - title: "Summer Intern"
       company: "AI4ALL"
       duration: "Jul 2020 - Aug 2020"
