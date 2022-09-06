@@ -4,7 +4,7 @@ showcase:
   title: "Hi, I’m Claire."
   subtitle: "Aspiring Full-Stack Developer"
   #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
-  description: "I am a sophomore at the University of California, Berkeley intending to study computer science. Welcome to my page and hope you enjoy!"
+  description: "I am a student at the University of California, Berkeley studying computer science. I'm interested in Full-Stack development, Front-End development, UI/UX, and Human Computer Interaction. Welcome to my page and hope you enjoy!"
   image:
     x: "img/showcase/claire.png"
     _2x: "img/showcase/claire.png"
@@ -18,7 +18,7 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/claire-lee-a54ba5155/"
+      URL: "https://www.linkedin.com/in/claire-lee8/"
 
     - icon: "github"
       URL: "https://github.com/clairelee8"
@@ -81,8 +81,8 @@ education:
   title: "Education"
   items:
     - university: "University of Berkeley, California"
-      year: "2020-2024"
-      degree: "Intended Computer Science Major"
+      year: "2020-2023"
+      degree: "Computer Science Major"
 
     #- university: "Sir John A Macdonald CI"
     #  year: "2009-2012"
@@ -96,13 +96,16 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/claire-lee-a54ba5155/"
+    URL: "https://www.linkedin.com/in/claire-lee8/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/1x4nKbB0Gx3edrsoXOYIw7n87wNMERmA2/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/1cv7fQqEOF-XAO6KBU4JKHrsDyf2AxMFv/view?usp=sharing"
 
   items:
+    - title: "Academic Intern (CS61B Data Structure)"
+      company: "UC Berkeley EECS Department"
+      duration: "Aug 2021 - Current"
     - title: "Bank of America Technology Analyst"
       company: "Bank of America"
       duration: "June 2021 - Aug 2021"
@@ -110,9 +113,9 @@ experience:
       company: "AI4ALL"
       duration: "Jul 2020 - Aug 2020"
 
-    - title: "Volunteer"
-      company: "Academy of Music and Arts for Special Education"
-      duration: "Jul 2016 - May 2020"
+    # - title: "Volunteer"
+    #   company: "Academy of Music and Arts for Special Education"
+    #   duration: "Jul 2016 - May 2020"
 
     #- title: "Jr. Front-End Developer"
     # company: "Cyberse"
